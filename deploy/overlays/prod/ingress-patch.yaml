@@ -1,0 +1,3 @@
+- op: replace
+  path: /spec/rules/0/host
+  value: prod.test-create-service-3.koala-demo-cluster.cluster.koalaops.com
